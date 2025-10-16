@@ -32,6 +32,8 @@
 
 - **[Python](https://www.python.org/)**: which I mostly use to create mini-projects like discord-chat-bot, or automated systems for my own benefit or the benefit of other people.
 
+- **[C+](https://cppreference.com/w/c.html) & [C++](https://cppreference.com/w/cpp.html)**:  used for performance-critical and low-level tools — native command-line utilities, memory- and CPU-sensitive systems, and optimized plugins or bots where control over memory and execution speed matters.
+
 #
 
 <br/>
